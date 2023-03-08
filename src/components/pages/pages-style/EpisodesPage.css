@@ -1,0 +1,11 @@
+.Episodes {
+    display: flex;
+    padding: 30px;
+    flex-wrap: wrap;
+}
+.Episodes img {
+    width: 400px;
+    border-radius: 15px;
+    padding: 20px;
+    object-fit: contain;
+}

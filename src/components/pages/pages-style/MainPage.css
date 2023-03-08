@@ -1,0 +1,17 @@
+.Main {
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Main img {
+    width: 300px;
+    margin: 20px 40px;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+.picture-box {
+    background-color: white;
+    margin: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
